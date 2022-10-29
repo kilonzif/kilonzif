@@ -16,6 +16,9 @@ I am currently pursuing a Masters of Science degree in Big Data Technologies at 
 😄 Pronouns: ... She/Her
 ⚡ Fun fact: ... I am pretty shy :) 
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+
 
 Find me on the Socials 
 Twitter: https://twitter.com/faith_kilonzi
