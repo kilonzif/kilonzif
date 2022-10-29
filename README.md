@@ -28,12 +28,12 @@
 
 
   <h4>Find me on the Socials </h4>
-  <p> <a href="https://twitter.com/faith_kilonzi">Twitter</a> </p>
+  <p> [![alt text][1.1]][1] <a href="https://twitter.com/faith_kilonzi">Twitter</a> </p>
   <p><a href="https://www.linkedin.com/in/faithkilonzi/">LinkedIn </a> </p>
 
 
   <h4>Let us Work Together </h4>
-** ** My Professional Bio: 
-** ** My Technical Writing Portfolio: 
+** <li>My Professional Bio: </li>
+  ** <li>My Technical Writing Portfolio: </li>
 
 
