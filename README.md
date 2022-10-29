@@ -33,7 +33,7 @@
 
 
   <h4>Let us Work Together </h4>
-** <li>My Professional Bio: </li>
-  ** <li>My Technical Writing Portfolio: </li>
+ <li>My Professional Bio: </li>
+ <li>My Technical Writing Portfolio: </li>
 
 
