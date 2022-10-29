@@ -19,9 +19,7 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <!-- Profile View Count and GitStats -->
-	
-![Faith Kilonzi's github stats](https://github-readme-stats.vercel.app/api?username=kilonzif&show_icons=true&theme=dracula) 
-	
+		
 <!-- Integrated Development Environment -->
  <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
 <code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
@@ -56,7 +54,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-																																																
+																					
+![Faith Kilonzi's github stats](https://github-readme-stats.vercel.app/api?username=kilonzif&show_icons=true&theme=dracula) 																											
   ## Find me on the Socials
   
 [![Linkedin](https://img.shields.io/badge/-FaithKilonzi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/FaithKilonzi)
