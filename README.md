@@ -28,8 +28,8 @@
 
 
   <h4>Find me on the Socials </h4>
-  <p> [![alt text][1.1]][1] <a href="https://twitter.com/faith_kilonzi">Twitter</a> </p>
-  <p><a href="https://www.linkedin.com/in/faithkilonzi/">LinkedIn </a> </p>
+  <p> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) <a href="https://twitter.com/faith_kilonzi">Twitter: @faith_kilonzi</a> </p>
+  <p>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/faithkilonzi/">LinkedIn: Faith Kilonzi </a> </p>
 
 
   <h4>Let us Work Together </h4>
