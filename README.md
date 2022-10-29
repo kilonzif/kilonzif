@@ -1,9 +1,13 @@
 ### Hi there 👋:smile:
 
-My name is Faith Kilonzi 
-I am a Software Engineer, DevOps Consultant and Technical Writer \n. 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-I am currently pursuing a Masters of Science degree in Big Data Technologies at the University of East London. 
+<p>My name is <b>Faith Kilonzi<b> </p>
+  <p>I am a Software Engineer, DevOps Consultant and Technical Writer.</p> 
+
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+
+<p>I am currently pursuing a Masters of Science degree in Big Data Technologies at the University of East London. </p>
+  <p>I also hold a BSc in Computer Science </p>
 
 
 
@@ -16,16 +20,16 @@ I am currently pursuing a Masters of Science degree in Big Data Technologies at 
 😄 Pronouns: ... She/Her
 ⚡ Fun fact: ... I am pretty shy :) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<div><img src="https://github-readme-stats.vercel.app/api?username=kilonzif&show_icons=true&theme=ADD_THEME_HERE" width="400"> </div>
 
 
 
-Find me on the Socials 
-Twitter: https://twitter.com/faith_kilonzi
-LinkedIn: https://www.linkedin.com/in/faithkilonzi/
+  <h4>Find me on the Socials </h4>
+  <p> <a href="https://twitter.com/faith_kilonzi">Twitter</a> </p>
+  <p><a href="LinkedIn: https://www.linkedin.com/in/faithkilonzi/">LinkedIn </a> </p>
 
 
-Let us Work Together
+  <h4>Let us Work Together </h4>
 ** ** My Professional Bio: 
 ** ** My Technical Writing Portfolio: 
 
