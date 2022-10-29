@@ -1,7 +1,8 @@
 ### Hi there 👋:smile:
 
 My name is Faith Kilonzi 
-I am a Software Engineer, DevOps Consultant and Technical Writer. 
+I am a Software Engineer, DevOps Consultant and Technical Writer \n. 
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 I am currently pursuing a Masters of Science degree in Big Data Technologies at the University of East London. 
 
 
