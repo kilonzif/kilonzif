@@ -1,22 +1,10 @@
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 ### Hi there 👋:smile:
 
 <p>My name is <b>Faith Kilonzi<b> </p>
-  <p>I am a Software Engineer, DevOps Consultant and Technical Writer.</p> 
-
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-
+<p>I am a Software Engineer, DevOps Consultant and Technical Writer.</p> 
 <p>I am currently pursuing a Masters of Science degree in Big Data Technologies at the University of East London. </p>
-  <p>I also hold a BSc in Computer Science </p>
-
-
-
+<p>I also hold a BSc in Computer Science </p>
 
 <ul>
 <li>🔭 I’m currently working on ... My MSc </li>
@@ -26,25 +14,38 @@
 <li>💬 Ask me about ... Cloud, Cloud Security, Tech, and Technical Digital Content Marketing  </li>
 <li>📫 How to reach me: faithmueni6@gmail.com  </li>
 <li>😄 Pronouns: ... She/Her  </li>
-<li>⚡ Fun fact: ... I am pretty shy :)  </li>
+<li>⚡ Fun fact: ... I am pretty shy but good at my job :)  </li>
 </ul>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+<!-- Profile View Count and GitStats -->
+	
+![Faith Kilonzi's github stats](https://github-readme-stats.vercel.app/api?username=kilonzif&show_icons=true&theme=dracula) 
+	
+<!-- Integrated Development Environment -->
+ <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
+<code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
+<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></a></code>
+<br>
+<!-- Database -->
+<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
+<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></a></code>
+<code><a href = "https://www.sqlite.org/index.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite"></a></code>
+<br>
+<!-- Scripting -->
+<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
+ <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></a></code>
+ <code><a href = "https://en.wikipedia.org/wiki/Shell_script"><img height="40" src="https://static.thenounproject.com/png/3820391-200.png" alt="Shell Script"></a></code>
+ <!-- Terminal -->
+<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
-
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
@@ -56,18 +57,12 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 																																																
+  ## Find me on the Socials
+  
+[![Linkedin](https://img.shields.io/badge/-FaithKilonzi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/FaithKilonzi)
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=kilonzif&show_icons=true&theme=ADD_THEME_HERE" width="400"> </div>
-
-
-
-  <h4>Find me on the Socials </h4>
-  <p> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) <a href="https://twitter.com/faith_kilonzi">Twitter: @faith_kilonzi</a> </p>
-  <p>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/faithkilonzi/">LinkedIn: Faith Kilonzi </a> </p>
+[![](https://img.shields.io/badge/-@faith_kilonzi-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/faith_kilonzi)
 
 
-  <h4>Let us Work Together </h4>
- <li>My Professional Bio: </li>
- <li>My Technical Writing Portfolio: </li>
 
 
